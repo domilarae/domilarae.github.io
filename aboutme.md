@@ -12,5 +12,6 @@ This is a website to showcase skills, projects and track my progression in data 
 
 I am a medical laboratory scientist with an interest in microbiology & infectious disease. I started my journey in data science by learning computation with Python in 2022. Since then, I have picked up an interest in data analysis with R and SQL, as well as a curiosity for data ethics. Feel free to join me on my journey! 
 
+#add contact form
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-9afadc06-78b7-4cf1-9cbf-7c9967971d58" data-elfsight-app-lazy></div>
