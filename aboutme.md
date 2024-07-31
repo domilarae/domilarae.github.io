@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
+Hi, I'm Dominique! I have a healthcare background and currently, I am in graduate school for a MS in Data Science. I have developed a strong foundation in the life sciences and a passion for analyzing data to create meaningful insights. I am excited to bring my skills to the field of data science. 
+In my free time, I enjoy exploring data analysis tools and techniques with healthcare data sets. I hope to use this website to display my findings as a way to aid my journey. 
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+This is a website to showcase skills, projects and track my progression in data sicence related topics. 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a medical laboratory scientist with an interest in microbiology & infectious disease. I started my journey in data science by learning computation with Python in 2022. Since then, I have picked up an interest in data analysis with R and SQL, as well as a curiosity for data ethics. Feel free to join me on my journey! 
