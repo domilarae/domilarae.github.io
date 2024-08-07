@@ -1,4 +1,10 @@
-Time Series Algorithm, Dominique Clemons 
+---
+layout: post
+title: times series analysis
+subtitle: covid-19 historical study
+tags: [microbiology, data science]
+author: dominique larae
+---
 
 Data : https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=full_grouped.csv
 
